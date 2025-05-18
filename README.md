@@ -3,7 +3,7 @@
 This project analyzes transactional retail data to identify profit-draining categories, optimize inventory turnover, and detect seasonal product behavior. It includes data modeling using SQL and Python, and an interactive Power BI dashboard.
 
 # Objective
-### Uncover underperforming product categories
+### ~ Uncover underperforming product categories
 ### Improve inventory turnover using correlation analysis
 ### Identify seasonal trends in sales and profitability
 ### Highlight slow-moving and overstocked products
